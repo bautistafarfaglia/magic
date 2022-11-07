@@ -1,0 +1,9 @@
+﻿  cCaballero.cpp
+  cJugador.cpp
+C:\Users\bauti\source\repos\TP2019 MAGIC COSAS\TP2019 MAGIC COSAS\cJugador.cpp(24,30): error C2248: 'cPersonaje::get_daño': cannot access private member declared in class 'cPersonaje'
+C:\Users\bauti\source\repos\TP2019 MAGIC COSAS\TP2019 MAGIC COSAS\cPersonaje.h(13): message : see declaration of 'cPersonaje::get_daño'
+C:\Users\bauti\source\repos\TP2019 MAGIC COSAS\TP2019 MAGIC COSAS\cPersonaje.h(5): message : see declaration of 'cPersonaje'
+  cObjeto.cpp
+  cPersonaje.cpp
+  main.cpp
+  Generating Code...
